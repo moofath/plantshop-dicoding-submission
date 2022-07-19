@@ -1,2 +1,3 @@
 # plantshop-dicoding-submission
-this repository contains a frontend project to fulfill the submission coding for basic html learning classes, this project uses html css and javascript
+This project was created to fulfill submissions from a web programming basic learning class held by idcamp and dicodin.
+The project created contains themes related to online buying and selling of ornamental plants and plant seeds
